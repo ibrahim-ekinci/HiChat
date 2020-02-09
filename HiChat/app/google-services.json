@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8440901416",
+    "firebase_url": "https://hichat-b4dd4.firebaseio.com",
+    "project_id": "hichat-b4dd4",
+    "storage_bucket": "hichat-b4dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8440901416:android:21409b10c0fc7c8e2eaa1d",
+        "android_client_info": {
+          "package_name": "com.example.hichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8440901416-30h918s99ait7km88766n2ms033r20rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hichat",
+            "certificate_hash": "461ac6d8390c0fde5238cb99f47f1d7d0e128af6"
+          }
+        },
+        {
+          "client_id": "8440901416-1qkqmoejrq24q99irlmne1rs5a8h035v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0y6ZCxoWUZoYzPll9jtNm634V7rNbllw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8440901416-1qkqmoejrq24q99irlmne1rs5a8h035v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
